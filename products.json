@@ -4,7 +4,7 @@
         "name":"قهوه ترک بن مانو مقدار 250 گرم خط دوم اسم طولانی",
         "price":175000,
         "unit":"تومان",
-        "image":"../public/images/products/p1.png",
+        "image":"public/images/products/p1.png",
         "stock": true,
         "discount": 0,
         "rating": 4
