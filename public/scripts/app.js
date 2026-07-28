@@ -82,7 +82,7 @@ submenu();
 cart();
 
 async function getProducts() {
-    const res = await fetch("../products.json") ;
+    const res = await fetch("./products.json") ;
     const data = await res.json();
     showProducts(data);
 }
