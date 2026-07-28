@@ -268,9 +268,6 @@
   .right-0 {
     right: calc(var(--spacing) * 0);
   }
-  .right-2 {
-    right: calc(var(--spacing) * 2);
-  }
   .right-5 {
     right: calc(var(--spacing) * 5);
   }
@@ -1125,9 +1122,6 @@
   }
   .text-zinc-800 {
     color: var(--color-zinc-800);
-  }
-  .line-through {
-    text-decoration-line: line-through;
   }
   .opacity-0 {
     opacity: 0%;
